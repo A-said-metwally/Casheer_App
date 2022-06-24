@@ -91,7 +91,7 @@ export default function Header({ prev , next , New, print , total}) {
 
         <div>
           <img 
-          src="/logo.Jpg" alt="userImage"
+          src="./logo.Jpg" alt="userImage"
           className=" h-14 w-14 rounded-full shadow-lg hover:scale-105"
           />
         </div>
